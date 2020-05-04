@@ -41,27 +41,27 @@
             <?php if($_GET['type'] === 'success' && isset($_GET['message'])) : ?>
                 <div class="contents">
                     <div class="content-icon">
-                        <img src="../assets/image/png/thumbs-shape.png" alt="">
+                        <img style="max-width: 50%; margin-top: 5px;" src="../assets/image/png/newsletter-succes.png" alt="">
                     </div>
                     <div class="content-text">
                         <h1 class="title">Vielen Dank</h1>
                         <p><?php echo($_GET['message']); ?> </p>
                     </div>
                     <div class="content-btn">
-                        <a href="/" class="btn btn-primary--outlined">Go back to home</a>
+                        <a href="/" class="btn btn-primary--outlined">Zurück zur Startseite</a>
                     </div>
                 </div>
             <?php elseif ($_GET['type'] === 'failed' && isset($_GET['message'])) : ?>
                 <div class="contents">
                     <div class="content-icon">
-                        <img src="../assets/image/png/thumbs-shape.png" alt="">
+                        <img style="max-width: 50%; margin-top: 5px;" src="../assets/image/png/newsletter-error.png" alt="">
                     </div>
                     <div class="content-text">
                         <h1 class="title">Ein Fehler ist aufgetreten</h1>
                         <p><?php echo($_GET['message']); ?></p>
                     </div>
                     <div class="content-btn">
-                        <a href="/" class="btn btn-primary--outlined">Go back to home</a>
+                        <a href="/" class="btn btn-primary--outlined">Zurück zur Startseite</a>
                     </div>
                 </div>
             <?php endif; ?>
