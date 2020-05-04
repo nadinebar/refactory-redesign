@@ -1,0 +1,16 @@
+
+/*# sourceMappingURL=maps/custom.css.map */
+.navbar-light .navbar-toggler {
+    padding-bottom: 11px;
+    padding-top: 11px;
+}
+
+
+.landing-5 .pricing-card .price-block .price {
+    font-size: 60px;
+}
+
+.toggler-dark {
+    color: #303030 !important;
+    border-color: #303030 !important;
+}
