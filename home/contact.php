@@ -15,7 +15,7 @@
                         <div class="col-12 col-sm-6 col-md-4 col-lg-12">
                             <div class="contact-widget-block mb--55">
                                 <h3 class="title">Rufen Sie uns an</h3>
-                                <p>+49-492-4918-395</p>
+                                <p>+49(0) 40 766 29 25 40</p>
                             </div>
                         </div>
                         <div class="col-12 col-sm-6 col-md-4 col-lg-12">

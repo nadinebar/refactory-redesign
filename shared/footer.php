@@ -21,8 +21,8 @@
                         <div class="single-footer mb--50 mb-lg--30">
                             <h5 class="footer-title">Rechtliches</h5>
                             <ul class="footer-list">
-                                <li><a href="">Impressum</a></li>
-                                <li><a href="">Datenschutzerklärung</a></li>
+                                <li><a href="/impressum">Impressum</a></li>
+                                <li><a href=/datenschutz">Datenschutzerklärung</a></li>
                             </ul>
                         </div>
                     </div>
@@ -32,7 +32,7 @@
                             <ul class="footer-list contact-list">
                                 <li><a href="">info@refactory.de
                                     </a></li>
-                                <li><a href="">+133-394-3439-1435</a></li>
+                                <li><a href="">+49(0) 40 766 29 25 40</a></li>
                             </ul>
                         </div>
                     </div>
