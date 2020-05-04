@@ -68,7 +68,9 @@
         </div>
       </main>
       <!-- Footer section -->
-        <?php include '../shared/footer.php' ?>
+        <div class="landing-5">
+            <?php include '../shared/footer.php' ?>
+        </div>
     </div>
   </div>
   <!-- Vendor Scripts -->

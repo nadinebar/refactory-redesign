@@ -16,7 +16,7 @@
             </div>
             <div class="col-xl-6 col-lg-5 position-static">
                 <div class="content-image">
-                    <img src="assets/image/png/l5-content-image.png" alt="" data-aos="fade-left" data-aos-duration="600" data-aos-once="true">
+                    <img src="assets/image/png/refactory-image-content.png" alt="" data-aos="fade-left" data-aos-duration="600" data-aos-once="true">
                 </div>
             </div>
         </div>
