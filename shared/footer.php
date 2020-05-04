@@ -30,7 +30,7 @@
                         <div class="single-footer mb--50 mb-lg--30">
                             <h5 class="footer-title">Kontakt</h5>
                             <ul class="footer-list contact-list">
-                                <li><a href="">support@uxtheme.net
+                                <li><a href="">info@refactory.de
                                     </a></li>
                                 <li><a href="">+133-394-3439-1435</a></li>
                             </ul>
